@@ -1,0 +1,95 @@
+[
+    {
+        "name": "Flight Suit",
+        "code": "flightsuit",
+        "manufacturer": "Remlok",
+        "stats": [
+            {
+                "grade": 1,
+                "engineeringSlots": 0,
+                "health": 30,
+                "mass": 100,
+                "shield": 7.5,
+                "shieldRegen": 0.55,
+                "resistances": {
+                    "kinetic": -70,
+                    "thermal": 39,
+                    "plasma": -20,
+                    "explosive": 0
+                },
+                "battery": 7,
+                "emergencyAir": 60,
+                "capacities": {
+                    "goods": 5,
+                    "assets": 10,
+                    "data": 10
+                },
+                "weaponSlots": {
+                    "primary": 0,
+                    "secondary": 1
+                },
+                "consumables": {
+                    "grenades": {
+                        "frag": 0,
+                        "disruptor": 0,
+                        "shield": 0
+                    },
+                    "medkits": 1,
+                    "energyCells": 1,
+                    "ebreachs": 0
+                }
+            }
+        ],
+        "tools": [
+            "energyLink",
+            "profileAnalyser"
+        ]
+    },
+    {
+        "name": "Artemis Suit",
+        "code": "explorationsuit",
+        "manufacturer": "Supratech",
+        "stats": [
+            {
+                "grade": 1,
+                "engineeringSlots": 0,
+                "health": 30,
+                "mass": 100,
+                "shield": 12.0,
+                "shieldRegen": 0.88,
+                "resistances": {
+                    "kinetic": -70,
+                    "thermal": -20,
+                    "plasma": 39,
+                    "explosive": 0
+                },
+                "battery": 17,
+                "emergencyAir": 60,
+                "capacities": {
+                    "goods": 10,
+                    "assets": 20,
+                    "data": 10
+                },
+                "weaponSlots": {
+                    "primary": 1,
+                    "secondary": 1
+                },
+                "consumables": {
+                    "grenades": {
+                        "frag": 1,
+                        "disruptor": 1,
+                        "shield": 1
+                    },
+                    "medkits": 1,
+                    "energyCells": 3,
+                    "ebreachs": 1
+                }
+            }
+        ],
+        "tools": [
+            "energyLink",
+            "profileAnalyser",
+            "geneticSampler"
+        ]
+    }
+]
