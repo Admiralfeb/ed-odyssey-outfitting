@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Karma P-15",
+        "type": "secondary",
+        "weaponType": "pistol",
+        "damageType": "kinetic",
+        "grades": [
+            {
+                "damage": 1.4,
+                "rate": 10,
+                "clip": 24,
+                "headshot": 2,
+                "range": 25
+            }
+        ]
+    }
+]

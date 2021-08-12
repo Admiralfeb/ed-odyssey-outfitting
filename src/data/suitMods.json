@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Enhanced Tracking",
+        "effects": [
+            {
+                "name": "Analysis Time",
+                "change": 0.1
+            },
+            {
+                "name": "Analysis Range",
+                "change": 1
+            }
+        ],
+        "cost": [
+            {
+                "name": "Topographical Surveys",
+                "number": 10
+            },
+            {
+                "name": "Stellar Activity Logs",
+                "number": 10
+            },
+            {
+                "name": "Spectral Analysis data",
+                "number": 10
+            },
+            {
+                "name": "Transmitter",
+                "number": 5
+            },
+            {
+                "name": "Circuit Board",
+                "number": 5
+            }
+        ]
+    }
+]
